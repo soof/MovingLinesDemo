@@ -1,0 +1,13 @@
+/*
+---
+name: Moving-Lines-Demo
+description: jsFiddle demo hosted on Github 
+authors:
+  - soofay
+resources:
+  - https://github.com/soof/MovingLinesDemo/raw/master/Demo/images/grilled-veg_cc.png
+  https://github.com/soof/MovingLinesDemo/raw/master/Demo/images/wallBG_2.jpg
+...
+*/
+
+<p>This demo creates moving lines effect over an image using javascript.</p> 
